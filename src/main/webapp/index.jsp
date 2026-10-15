@@ -8,6 +8,8 @@
 
 <p>I'm writing this line using nano instead of an IDE</p>
 
+<p>Commit test after set-up</p>
+
 </body>
 
 </html>
